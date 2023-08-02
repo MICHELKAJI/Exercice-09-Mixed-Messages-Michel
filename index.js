@@ -27,7 +27,7 @@ function message(message){
    
       
 }
-message('blague');
+message('motivation');
 
 
 
